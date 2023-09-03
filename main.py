@@ -93,7 +93,7 @@ def ambil_gambar():
             if sensorcm < 3.0 :
                 print("Tunggu Sebentar..")
                 GPIO.output(led, GPIO.LOW)
-                cv2.imwrite('foto1.jpg', frame)
+                cv2.imwrite('foto.jpg', frame)
                 subprocess.run(['python3', filename])
     label_webcam.after(10, ambil_gambar)
 # Menginisialisasi webcam
