@@ -23,7 +23,9 @@ Kemudian kami menggunakan tempelate yang telah disediakan oleh github yoloV5.
 <br>
 Untuk membuat dataset, kami menggunakan Roboflow sebagai dasar.
 <br>
-Kemudian kami memodifikasi file detect.py dan membuat file main.py untuk interface dan file utama.
+Kemudian kami membuat file best.pt dengan menggunakan dataset Roboflow dan Google Collab
+<br>
+Dan kami memodifikasi file detect.py dan membuat file main.py untuk interface dan file utama.
 <br>
 Kami juga membuat bot telegram dan mensinkronisasikannya untuk menjadi output sementara.
 
@@ -32,7 +34,7 @@ Kami juga membuat bot telegram dan mensinkronisasikannya untuk menjadi output se
 
 YoloV5 Github : https://github.com/ultralytics/yolov5.git
 <br>
-Roboflow Dataset : 
+Roboflow Dataset : https://universe.roboflow.com/verlyn-project-object-detection/pendeteksi-perlengkapan-seragam/model/9
 <br>
 Google Colab : https://colab.research.google.com/github/roboflow-ai/yolov5-custom-training-tutorial/blob/main/yolov5-custom-training.ipynb#scrollTo=eaFNnxLJbq4J
 <br>
