@@ -42,7 +42,7 @@ Main.py : https://github.com/Arkcept/SIC-Verlyn/blob/main/main.py
 <br>
 Detect.py : https://github.com/Arkcept/SIC-Verlyn/blob/main/detect.py
 
-### End
+### Credit
 SIC4 - Verlyn - 2023
 
 
