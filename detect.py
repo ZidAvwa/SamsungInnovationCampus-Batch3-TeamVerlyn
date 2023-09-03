@@ -35,9 +35,9 @@ from utils.torch_utils import select_device, smart_inference_mode
 #Declaration
 bot = Bot(token='6544018251:AAHpKt2nIVlfY06OSTQmH7K5yEuR3lj6wK0')
 chat_id = '-1001523621267'
-photo_path = 'foto1.jpg'
+photo_path = 'foto.jpg'
 caption = ''
-bestpt = 'best mega.pt'
+bestpt = 'dataset/small best.pt'
 out = ''
 
 @smart_inference_mode()
