@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Arkcept/SIC-Verlyn.git">
-    <img src="depesilogo.png" alt="Logo">
+    <img src="depesi white logo.png" alt="Logo">
   </a>
 
   <h3 align="center">SIC - Verlyn</h3>
