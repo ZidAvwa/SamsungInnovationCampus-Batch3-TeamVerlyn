@@ -231,7 +231,7 @@ def outputo(a, b, c, d):
         
     if b == 1:
         if a == 0:
-            caption = 'Siswa ini tidak memakai dasi'
+            caption = 'Siswa ini tidak memakai dasi, Penambahan 2 Poin'
         elif a > 0:
             caption = '0'
             
