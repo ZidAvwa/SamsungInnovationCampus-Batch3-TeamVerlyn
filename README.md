@@ -19,7 +19,7 @@
 
 Pada dasarnya project kami menggunakan salah satu model pembelajaran yang paling populer diranah deteksi objek, yaitu yoloV5.
 <br>
-Kemudian kami menggunakan tempelate yang telah disediakan oleh github yoloV5.
+Kemudian kami menggunakan template yang telah disediakan oleh github yoloV5.
 <br>
 Untuk membuat dataset, kami menggunakan Roboflow sebagai dasar.
 <br>
